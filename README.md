@@ -6,7 +6,7 @@ Este projeto implementa um chat inteligente multiagente utilizando **LangGraph**
 - Memória de conversa por sessão, para que o agente lembre do contexto ao longo do diálogo.
 - Uma arquitetura em grafo de estados, simples de entender e fácil de evoluir.
 
-A ideia é simular um atendimento em que, a partir da primeira pergunta, o sistema decide qual “especialista” deve responder — e mantém a conversa com esse mesmo agente até o fim da sessão.
+A ideia é simular um atendimento em que, a partir da primeira pergunta, o sistema decide qual “especialista” deve responder, e mantém a conversa com esse mesmo agente até o fim da sessão.
 
 ---
 
